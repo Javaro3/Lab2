@@ -1,0 +1,8 @@
+D:\1 курс\ООП\lab2\lab2\lab2\bin\Debug\lab2.exe.config
+D:\1 курс\ООП\lab2\lab2\lab2\bin\Debug\lab2.exe
+D:\1 курс\ООП\lab2\lab2\lab2\bin\Debug\lab2.pdb
+D:\1 курс\ООП\lab2\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\1 курс\ООП\lab2\lab2\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+D:\1 курс\ООП\lab2\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\1 курс\ООП\lab2\lab2\lab2\obj\Debug\lab2.exe
+D:\1 курс\ООП\lab2\lab2\lab2\obj\Debug\lab2.pdb
